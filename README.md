@@ -77,8 +77,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/avsharma-exe/avsharma-exe/output/snake.svg" alt="Snake animation" />
-
-###
