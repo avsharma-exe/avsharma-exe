@@ -70,7 +70,7 @@
   <a href="https://instagram.com/avsharma.exe?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
   </a>
-  <a href="asayushsharma9@gmail.com" target="_blank">
+  <a href="mailto:asayushsharma9@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="50" alt="gmail logo"  />
   </a>
 </div>
