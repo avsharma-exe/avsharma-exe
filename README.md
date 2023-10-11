@@ -4,7 +4,7 @@ I'm a Web and SEO developer.
   Result-driven Senior Software Dev with 4 years of experience in web development and a proven track record delivering high-quality software solutions. Your partner for web development success.
 * 🌍  I'm based in Pune India
 * ✉️  You can contact me at [asayushsharma9@gmail.com](mailto:asayushsharma9@gmail.com)
-* 🚀  I'm currently working on [Google for startup website specifically the Google alumni directory page](http://startup.google.com/alumni/directory/)
+* 🚀  I'm currently working on <a href="http://startup.google.com/alumni/directory/" target=”_blank”> Google for startup website specifically the Google alumni directory page</a>
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on MEAN | Front-end | Web-dev projects
 * ⚡  I'm your boiled white rice.
@@ -87,9 +87,9 @@ I'm a Web and SEO developer.
 <h4>* Freelance Web Developer</h4>
 
   - Personalized Ticker for Stock Market - A Python and Flask-based solution that enables users to use their own algorithms and calculations for their stock market orders improving the user gain by 8% in a month.
-    - Do check it out <a href="https://github.com/avsharma-exe/algo-trading">here</a>
+    - Do check it out <a href="https://github.com/avsharma-exe/algo-trading" target=”_blank”>here</a>
   - Steel Sense - Architected a cutting-edge ERP solution, custom-tailored for the steel industry, boasting robust truck tracking and advanced employee data management capabilities
-    - Do check it out <a href="https://github.com/avsharma-exe/Steel-sense">here</a>
+    - Do check it out <a href="https://github.com/avsharma-exe/Steel-sense" target=”_blank”>here</a>
   
 ---
 
