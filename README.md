@@ -1,6 +1,6 @@
 I'm a Web and SEO developer.
 -------------------------------  
-[<img align="right" width="300" alt="3d pen holding person in front of laptop" src="https://github.com/avsharma-exe/avsharma-exe/assets/52989001/de331198-55af-4b49-9fb1-bac72ac48091">](#)
+[<img align="right" width="30%" alt="3d pen holding person in front of laptop" src="https://github.com/avsharma-exe/avsharma-exe/assets/52989001/de331198-55af-4b49-9fb1-bac72ac48091">](#)
   Result-driven Senior Software Dev with 4 years of experience in web development and a proven track record delivering high-quality software solutions. Your partner for web development success.
 * 🌍  I'm based in Pune India
 * ✉️  You can contact me at [asayushsharma9@gmail.com](mailto:asayushsharma9@gmail.com)
@@ -77,7 +77,7 @@ I'm a Web and SEO developer.
 
 <h3>Work experience - </h3>
 
-[<img align="right" width="300" alt="social-man-with-binocular" src="https://github.com/avsharma-exe/avsharma-exe/assets/52989001/f2fc020d-4ee3-4dc6-b956-d4d71041379d">](#)
+[<img align="right" width="30%" alt="social-man-with-binocular" src="https://github.com/avsharma-exe/avsharma-exe/assets/52989001/f2fc020d-4ee3-4dc6-b956-d4d71041379d">](#)
 <h4>* Cybage Software Pvt. Ltd. Pune, India</h4>
 
   - Google for Startups - One of the core developers for "/alumni/" and its child pages
@@ -93,7 +93,7 @@ I'm a Web and SEO developer.
   
 ---
 
-[<img align="left" width="250" alt="coworking-seated-young-man" src="https://github.com/avsharma-exe/avsharma-exe/assets/52989001/89156eca-ef5b-44c3-b5ae-b9b48d22efca">](#)
+[<img align="left" width="20%" alt="coworking-seated-young-man" src="https://github.com/avsharma-exe/avsharma-exe/assets/52989001/89156eca-ef5b-44c3-b5ae-b9b48d22efca">](#)
 
 <h3> PROUD OF </h3>
 
