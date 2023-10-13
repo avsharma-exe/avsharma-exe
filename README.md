@@ -4,11 +4,11 @@ I'm a Web and SEO developer.
   Result-driven Senior Software Dev with 4 years of experience in web development and a proven track record delivering high-quality software solutions. Your partner for web development success.
 * 🌍  I'm based in Pune India
 * ✉️  You can contact me at [asayushsharma9@gmail.com](mailto:asayushsharma9@gmail.com)
-* 🚀  I'm currently working on Google marketing websites</a>
-* 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on MEAN | Front-end | Web-dev projects
-* ⚡  I'm your boiled white rice.
-* ⚡ Fun fact - Android released TYPE-C 12 years before the iPhone
+* 🚀  Currently working on Google marketing websites</a>
+* 🧠  Learning AWS 
+* 🤝  Open to collaborating on MEAN | Front-end | Web-dev projects
+* ⚡  Your boiled white rice.
+* ⚡  Fun fact - Android released TYPE-C 12 years before the iPhone
   
 
 ---
