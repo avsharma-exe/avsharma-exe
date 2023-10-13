@@ -4,7 +4,7 @@ I'm a Web and SEO developer.
   Result-driven Senior Software Dev with 4 years of experience in web development and a proven track record delivering high-quality software solutions. Your partner for web development success.
 * 🌍  I'm based in Pune India
 * ✉️  You can contact me at [asayushsharma9@gmail.com](mailto:asayushsharma9@gmail.com)
-* 🚀  I'm currently working on <a href="http://startup.google.com/alumni/directory/" target=”_blank”> Google for startup website specifically the Google alumni directory page</a>
+* 🚀  I'm currently working on Google marketing websites</a>
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on MEAN | Front-end | Web-dev projects
 * ⚡  I'm your boiled white rice.
